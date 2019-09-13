@@ -1,7 +1,17 @@
-body { 
+
+html, body { 
     background-color: #eeeeee;
 }
 
 * {
     font-family: sans-serif;
+}
+
+#header {
+    border: 1px solid black;
+}
+
+body table {
+    width: 600px;
+    background-color: #ffffff;
 }
